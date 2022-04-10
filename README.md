@@ -6,7 +6,7 @@ Realizei a correção dessa tradução entre outras referentes a esse painel.
 
 ## Para instalar a tradução no seu sistema (v32) segue o passo a passo:
 
-* Fazer o download do arquivo de tradução compilado [AQUI](https://github.com/heloisatech/batocerav32-fix-pt_BR/raw/main/emulationstation2.mo)
+* Fazer o download do arquivo de tradução compilado [AQUI](https://github.com/heloisatech/batocerav32-fix-pt_BR/releases/tag/batocerafix1)
 * Usando FTP cole o arquivo  na pasta ``` /usr/share/locale/pt_BR/LC_MESSAGES/emulationstation2.mo ```
 
 
