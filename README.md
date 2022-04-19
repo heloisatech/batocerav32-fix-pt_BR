@@ -3,7 +3,7 @@
 **PRA QUEM QUER CONTINUAR USANDO A v32**, ela possui um erro na tradução do Painel de Conquistas Retrô, impossibilitando ler corretamente a pontuação do placar.
 Realizei a correção dessa tradução entre outras referentes a esse painel. 
 
-``` Obs: Na versão mai recente do Batocera esse erro já foi corrigido. ```
+``` Obs: Na versão mais recente do Batocera esse erro já foi corrigido. ```
 
 
 ## Para instalar a tradução no seu sistema (v32) segue o passo a passo:
